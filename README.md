@@ -1,2 +1,4 @@
 # github-pratice
-it si a pratice repo. I praticed github branch strategy.
+it is a practice repo. I practiced github branch strategy.
+
+I'll do git squash.
